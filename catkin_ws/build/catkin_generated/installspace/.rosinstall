@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/dehui_ws/catkin_ws/install/setup.sh

@@ -1,0 +1,2 @@
+set(zed_wrapper_MESSAGE_FILES "")
+set(zed_wrapper_SERVICE_FILES "/home/nvidia/dehui_ws/catkin_ws/src/zed/zed-ros-wrapper/zed_wrapper/srv/set_initial_pose.srv;/home/nvidia/dehui_ws/catkin_ws/src/zed/zed-ros-wrapper/zed_wrapper/srv/reset_odometry.srv;/home/nvidia/dehui_ws/catkin_ws/src/zed/zed-ros-wrapper/zed_wrapper/srv/reset_tracking.srv;/home/nvidia/dehui_ws/catkin_ws/src/zed/zed-ros-wrapper/zed_wrapper/srv/start_svo_recording.srv;/home/nvidia/dehui_ws/catkin_ws/src/zed/zed-ros-wrapper/zed_wrapper/srv/stop_svo_recording.srv")

@@ -2,4 +2,4 @@
 build/
 devel/
 *.bag
-log_data.launch
+*log_data.launch

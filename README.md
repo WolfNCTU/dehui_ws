@@ -7,7 +7,7 @@ catkin_make
 ```
 Setup environment
 
-## The ROS master is set in zem01
+## The ROS master is set in zedm01
 ```
 source environment.sh
 roscd zed_wrapper/launch
